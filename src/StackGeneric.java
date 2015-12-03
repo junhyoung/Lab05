@@ -26,6 +26,7 @@ public class StackGeneric {
 		System.out.println(stackString.pop());
 		System.out.println(stackString.pop());
 		System.out.println(stackString.pop());
+		
 
 	}
 }

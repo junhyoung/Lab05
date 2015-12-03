@@ -16,4 +16,5 @@ class Node <T> {
 	public void setNext(Node<T> nextData) {
 		next=nextData;
 	}
+	
 }

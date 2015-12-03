@@ -15,6 +15,7 @@ class Stack<T> {
 		top--;
 		
 		return tempData;
+		
 		}
 	}
 	
